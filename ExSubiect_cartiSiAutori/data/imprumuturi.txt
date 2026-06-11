@@ -1,0 +1,7 @@
+978-1,Maitreyi,1,2026-05-01,14,FIZIC,Fiction
+978-2,The Shining,2,2026-05-10,21,FIZIC,Horror
+978-3,Harry Potter,3,2026-05-11,7,AUDIOBOOK,Fantasy
+978-4,Kafka on the Shore,4,2026-05-12,30,EBOOK,Fiction
+978-5,It,2,2026-05-15,10,AUDIOBOOK,Horror
+978-6,Harry Potter,3,2026-05-16,14,FIZIC,Fantasy
+978-1,Maitreyi,1,2026-05-20,5,EBOOK,Fiction

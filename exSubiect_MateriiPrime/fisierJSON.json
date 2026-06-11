@@ -1,0 +1,98 @@
+[
+    {
+        "Materii": [
+            {
+                "Cod Materie": 1,
+                "Cantitate": 50
+            },
+            {
+                "Cod Materie": 4,
+                "Cantitate": 0
+            }
+        ],
+        "Cod": 4,
+        "Denumire": "Paine dietetica",
+        "Unitate": "bucati",
+        "Cantitate": 100
+    },
+    {
+        "Materii": [
+            {
+                "Cod Materie": 1,
+                "Cantitate": 200
+            },
+            {
+                "Cod Materie": 2,
+                "Cantitate": 5
+            },
+            {
+                "Cod Materie": 3,
+                "Cantitate": 5
+            },
+            {
+                "Cod Materie": 4,
+                "Cantitate": 3
+            }
+        ],
+        "Cod": 1,
+        "Denumire": "Paine alba 500g",
+        "Unitate": "bucati",
+        "Cantitate": 1000
+    },
+    {
+        "Materii": [
+            {
+                "Cod Materie": 5,
+                "Cantitate": 50
+            },
+            {
+                "Cod Materie": 2,
+                "Cantitate": 15
+            },
+            {
+                "Cod Materie": 3,
+                "Cantitate": 0
+            },
+            {
+                "Cod Materie": 4,
+                "Cantitate": 1
+            },
+            {
+                "Cod Materie": 7,
+                "Cantitate": 6
+            }
+        ],
+        "Cod": 2,
+        "Denumire": "Cozonac",
+        "Unitate": "bucati",
+        "Cantitate": 300
+    },
+    {
+        "Materii": [
+            {
+                "Cod Materie": 1,
+                "Cantitate": 50
+            },
+            {
+                "Cod Materie": 2,
+                "Cantitate": 5
+            },
+            {
+                "Cod Materie": 3,
+                "Cantitate": 5
+            },
+            {
+                "Cod Materie": 4,
+                "Cantitate": 3
+            },
+            {
+                "Cod Materie": 8,
+                "Cantitate": 500
+            }
+        ],
+        "Cod": 3,
+        "Denumire": "Paine integrala",
+        "Unitate": "bucati",
+        "Cantitate": 2000
+    }
+]

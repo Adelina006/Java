@@ -1,0 +1,5 @@
+Cod            Denumire  Nr Locuri  Varta Medie
+4       CARDIOLOGIE                 5      0.00
+1       ORL                        10     45.00
+3       OFTALMOLOGIE                4     47.50
+2       DERMATOLOGIE                7     50.50

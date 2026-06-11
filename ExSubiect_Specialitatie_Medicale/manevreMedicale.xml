@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<medicale>
+    <Specialitate>
+        <Oftalmologie/>
+        <manevre>
+            <manevra cod="102" numar="22"/>
+            <manevra cod="104" numar="23"/>
+        </manevre>
+    </Specialitate>
+    <Specialitate>
+        <Pediatrie/>
+        <manevre>
+            <manevra cod="202" numar="21"/>
+        </manevre>
+    </Specialitate>
+    <Specialitate>
+        <Recuperare/>
+        <manevre>
+            <manevra cod="303" numar="20"/>
+            <manevra cod="304" numar="26"/>
+        </manevre>
+    </Specialitate>
+    <Specialitate>
+        <Cardiologie/>
+        <manevre>
+            <manevra cod="402" numar="25"/>
+            <manevra cod="403" numar="31"/>
+        </manevre>
+    </Specialitate>
+</medicale>
